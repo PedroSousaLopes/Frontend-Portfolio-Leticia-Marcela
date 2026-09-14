@@ -1,5 +1,5 @@
 // import { useTranslation } from "react-i18next";
-import home from "../assets/home.jpg";
+import home from "../assets/home.png";
 
 export default function Canvas() {
   // const { t } = useTranslation();
