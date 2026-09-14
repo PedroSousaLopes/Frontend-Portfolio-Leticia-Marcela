@@ -1,0 +1,21 @@
+{
+  "canvas": {
+    "photographer": "PHOTOGRAPHER",
+    "filmmaker": "FILMMAKER",
+    "photo": [
+      "A fotografia é uma forma de transformar momentos únicos em memórias que permanecem.",
+      "Busco capturar não apenas imagens, mas também emoções, detalhes e histórias",
+      "que tornam cada instante especial. Através da luz, da composição e de um olhar",
+      "atento, cada fotografia é criada para transmitir autenticidade e preservar",
+      "a essência de cada momento de uma maneira atemporal."
+    ],
+    "film": [
+      "O cinema é a maneira de transformar momentos em histórias que podem ser sentidas,",
+      "revividas e compartilhadas. Através do movimento, da luz, do som e da emoção,",
+      "busco criar filmes que vão além do registro de um acontecimento, traduzindo cada",
+      "detalhe em uma experiência visual envolvente. Cada produção é pensada para contar",
+      "uma história autêntica, preservar sentimentos e dar vida às memórias de uma forma",
+      "cinematográfica e atemporal."
+    ]
+  }
+}
