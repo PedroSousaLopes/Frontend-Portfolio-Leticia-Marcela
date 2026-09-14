@@ -101,7 +101,7 @@ export default function NavBar() {
         className="flex items-center gap-3"
       >
         <img
-          src="./assets/logo.png"
+          src="/assets/logo.png"
           alt="Leticia Marcela"
           className={`h-15 w-auto transition-all duration-500 ${
             scrolled ? "brightness-0 invert" : "brightness-0"
