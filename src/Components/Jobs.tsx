@@ -9,7 +9,7 @@ export default function Jobs() {
         Weddings
       </h1>
       <img
-        src="assets/weedings.jpg"
+        src="../public/assets/weedings.jpg"
         alt="Weddings"
         className="h-[300px] w-full object-cover"
       />
@@ -21,7 +21,7 @@ export default function Jobs() {
         Pre-Weddings
       </h1>
       <img
-        src="assets/pre-weedings.jpg"
+        src="../public/assets/pre-weedings.jpg"
         alt="Pre-Weddings"
         className="h-[300px] w-full object-cover"
       />
@@ -33,7 +33,7 @@ export default function Jobs() {
         Family
       </h1>
       <img
-        src="assets/family.jpg"
+        src="../public/assets/family.jpg"
         alt="Family"
         className="h-[300px] w-full object-cover"
       />
@@ -45,7 +45,7 @@ export default function Jobs() {
         Aniversário
       </h1>
       <img
-        src="assets/aniversario.jpg"
+        src="../public/assets/aniversario.jpg"
         alt="Aniversário"
         className="h-[300px] w-full object-cover"
       />
