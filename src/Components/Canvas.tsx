@@ -1,4 +1,5 @@
 // import { useTranslation } from "react-i18next";
+import home from "../assets/home.jpg";
 
 export default function Canvas() {
   // const { t } = useTranslation();
@@ -20,7 +21,7 @@ export default function Canvas() {
         {/* IMAGEM */}
         <div className=" flex items-center justify-center">
           <img
-            src="../public/assets/home.png"
+            src={home}
             alt="Photographer"
             className="
               p-5

@@ -1,6 +1,7 @@
 import { useEffect, useRef, useState } from "react";
 import { useTranslation } from "react-i18next";
 import { Link } from "react-router-dom";
+import logo from "../assets/logo.png";
 
 interface Categoria {
   nome: string;
@@ -101,8 +102,8 @@ export default function NavBar() {
         className="flex items-center gap-3"
       >
         <img
-          src="/assets/logo.png"
-          alt="Leticia Marcela"
+          src={logo}
+          alt="Logo"
           className={`h-15 w-auto transition-all duration-500 ${
             scrolled ? "brightness-0 invert" : "brightness-0"
           }`}
