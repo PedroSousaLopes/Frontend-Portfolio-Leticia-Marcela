@@ -16,7 +16,7 @@ export default function AboutDescricao() {
         {/* Foto */}
         <div className="mb-10 h-52 w-52 overflow-hidden rounded-full shadow-xl">
           <img
-            src="./assets/About.jpg"
+            src="../public/assets/About.jpg"
             alt="Leticia Marcela"
             className="h-full w-full object-cover"
           />
@@ -60,7 +60,7 @@ export default function AboutDescricao() {
                 Inglaterra
               </span>
               <img
-                src="./assets/turquia.jpg"
+                src="../public/assets/turquia.jpg"
                 alt="Turquia"
                 className="mt-2 max-h-[600px] w-auto rounded-lg shadow-md object-contain transition-transform duration-500 ease-out
              hover:scale-105"
@@ -75,7 +75,7 @@ export default function AboutDescricao() {
                 Croácia
               </span>
               <img
-                src="./assets/turquia.jpg"
+                src="../public/assets/turquia.jpg"
                 alt="Turquia"
                 className="mt-2 max-h-[600px] w-auto rounded-lg shadow-md object-contain transition-transform duration-500 ease-out
              hover:scale-105"
@@ -90,7 +90,7 @@ export default function AboutDescricao() {
                 Vaticano
               </span>
               <img
-                src="./assets/turquia.jpg"
+                src="../public/assets/turquia.jpg"
                 alt="Turquia"
                 className="mt-2 max-h-[600px] w-auto rounded-lg shadow-md object-contain transition-transform duration-500 ease-out
              hover:scale-105"
@@ -105,7 +105,7 @@ export default function AboutDescricao() {
                 Turquia
               </span>
               <img
-                src="./assets/turquia.jpg"
+                src="../public/assets/turquia.jpg"
                 alt="Turquia"
                 className="mt-2 max-h-[600px] w-auto rounded-lg object-contain shadow-md
              transition-transform duration-500 ease-out

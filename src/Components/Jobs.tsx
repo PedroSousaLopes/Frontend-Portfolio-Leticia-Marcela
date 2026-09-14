@@ -57,7 +57,7 @@ export default function Jobs() {
         Viagem
       </h1>
       <img
-        src="assets/viagem.jpg"
+        src="../public/assets/viagem.jpg"
         alt="Viagem"
         className="h-[300px] w-full object-cover"
       />
@@ -69,7 +69,7 @@ export default function Jobs() {
         Gravida
       </h1>
       <img
-        src="assets/gravida.jpg"
+        src="../public/assets/gravida.jpg"
         alt="Viagem"
         className="h-[300px] w-full object-cover"
       />

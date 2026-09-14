@@ -20,7 +20,7 @@ export default function Canvas() {
         {/* IMAGEM */}
         <div className=" flex items-center justify-center">
           <img
-            src="assets/home.png"
+            src="../public/assets/home.png"
             alt="Photographer"
             className="
               p-5
